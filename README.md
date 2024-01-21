@@ -13,7 +13,7 @@ Closed product lifecycles aren't always possible because as some companies grow,
 
 ### 3. Garbage Problems and Solutions
 
-A lot of garbage is burned for energy or buried in landfills. Some landfills contaminate the surrounding soil and water. Product garbage that isn't burned, like old car tires, is recycled by recycling companies. Recycling companies are created to work with public services and manage garbage.
+A lot of garbage is burned for energy or buried in landfills. Some landfills contaminate the surrounding soil and water. Product garbage that isn't burned or buried, like old car tires, is recycled by recycling companies. Recycling companies are created to work with public services and manage garbage.
 
 1. Legally restricting companies from using non-recyclable materials to produce their products would eliminate the accumulation and public management of product garbage. This restriction would also limit the available materials for companies to use in production, and then this limits our consumer lifestyle.
 
