@@ -35,8 +35,8 @@ Mattiussi Ecologia is a pioneering environmental consultancy firm renowned for i
 
 ### Garbage Presorting Machine
 
-*Within this context, Mattiussi Ecologia is asking young eco-friendly designers to envisage the future of presorting household waste in the home, in order to improve its perception among residents and their
-propensity to do it, as well as support its effectiveness. Imagining the home of the future, with sustainability and technology in settings where space is increasingly limited, the aim is to design a new product for home living able to combine design, functionality and sustainability as well as digital technology.*
+*"Within this context, Mattiussi Ecologia is asking young eco-friendly designers to envisage the future of presorting household waste in the home, in order to improve its perception among residents and their
+propensity to do it, as well as support its effectiveness. Imagining the home of the future, with sustainability and technology in settings where space is increasingly limited, the aim is to design a new product for home living able to combine design, functionality and sustainability as well as digital technology."*
 
 Mattiussi Ecologia is basically seeking innovative designers to envision a garbage sorting machine for households, aiming to enhance waste sorting habits and efficiency while considering limited space and technological advancements. The goal is to create a product that merges design, functionality, sustainability, and digital technology, making waste sorting easier and more appealing for residents in future homes.
 
