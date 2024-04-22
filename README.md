@@ -25,6 +25,9 @@ The rapid evolution of product development throughout the past century in sector
 
 ***
 
+<details><summary>Presorted Waste Collection</summary>
+<br>
+
 ### Presorted Waste Collection
 
 ![Presorting Garbage](https://github.com/sourceduty/Garbage/assets/123030236/fdabac69-29cd-4d2f-8ef9-eb5a9c415129)
@@ -43,6 +46,21 @@ Mattiussi Ecologia is basically seeking innovative designers to envision a garba
 ### Garbage Presorting Difficulties
 
 Presorting garbage for curbside collection presents a formidable challenge for both everyday individuals and businesses, adding an extra task to their already demanding routines. This additional responsibility demands time and effort from residents and employees alike, as they must carefully segregate various waste categories such as recyclables, organic matter, and hazardous materials. However, without the provision of sorted curbside garbage collection services, this task becomes even more burdensome. The lack of a segregated collection system not only complicates waste management but also imposes significant logistical and financial strains on households and businesses. Moreover, the absence of such services hampers environmental conservation efforts, as recyclable materials frequently end up in landfills, contributing to pollution and resource depletion. Therefore, the absence of sorted curbside garbage collection not only adds to the workload of everyday people and businesses but also impedes progress toward achieving sustainable waste management practices.
+
+<br>
+</details>
+
+<details><summary>Smart Consumer</summary>
+<br>
+
+![Consumer](https://github.com/sourceduty/Garbage/assets/123030236/31b4ef03-e6af-400f-b836-14fbe84cbce2)
+
+Changing how a product is consumed, like pouring a takeout coffee into an insulated mug, is very smart. Businesses and brands sell a lot of products to consumers that are created to be sold and disposed. Most businesses and brands aren't legally responsible for maintaining a closed product lifecycle which leaves the consumer and governments responsible for managing the garbage. This way of consuming that isn't taught in schools or supported by consumer goods industries that have open product lifecycles.
+
+✋ This section wasn't written or edited by AI.
+
+<br>
+</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
