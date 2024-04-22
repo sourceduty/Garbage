@@ -55,7 +55,7 @@ Presorting garbage for curbside collection presents a formidable challenge for b
 
 ![Consumer](https://github.com/sourceduty/Garbage/assets/123030236/31b4ef03-e6af-400f-b836-14fbe84cbce2)
 
-Changing how a product is consumed, like pouring a takeout coffee into an insulated mug, is very smart. Businesses and brands sell a lot of products to consumers that are created to be sold and disposed. Most businesses and brands aren't legally responsible for maintaining a closed product lifecycle which leaves the consumer and governments responsible for managing the garbage. This way of consuming that isn't taught in schools or supported by consumer goods industries that have open product lifecycles.
+Changing how a product is consumed, like pouring a takeout coffee into an insulated mug, is very smart. Businesses and brands sell a lot of products to consumers that are created to be sold and disposed. Most businesses and brands aren't legally responsible for maintaining a closed product lifecycle which leaves the consumer and governments responsible for managing the garbage. This way of consuming isn't taught in schools or supported by consumer goods industries that have open product lifecycles.
 
 ✋ This section wasn't written or edited by AI.
 
