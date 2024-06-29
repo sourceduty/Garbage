@@ -1,8 +1,6 @@
-## Product Garbage
+![Garbage Can Guy](https://github.com/sourceduty/Garbage/assets/123030236/1941d768-c7af-4707-bc57-32808957fd7c)
 
-![Landfill](https://github.com/sourceduty/Garbage/assets/123030236/7fcff4e4-7328-4468-8cca-3b5875a524f2)
-
-***
+#
 ### 1. Product Lifecycles
 
 The majority of companies that produce products to sell aren't legally responsible for maintaining a closed product lifecycle. When a product is expended, then it's disposed of in the local town or city. Public services are created and held responsible for collecting and managing garbage that's accumulated from other places. Amazon can sell products that other companies produce because the companies don't collect their product garbage and don't maintain a closed product lifecycle.
@@ -61,6 +59,10 @@ Changing how a product is consumed, like pouring a takeout coffee into an insula
 
 <br>
 </details>
+
+#
+
+![Landfill](https://github.com/sourceduty/Garbage/assets/123030236/7fcff4e4-7328-4468-8cca-3b5875a524f2)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
