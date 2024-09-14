@@ -1,5 +1,7 @@
 ![Garbage Can Guy](https://github.com/sourceduty/Garbage/assets/123030236/1941d768-c7af-4707-bc57-32808957fd7c)
 
+> Product lifecycles, waste management, and the impact of non-recyclable materials on garbage accumulation and disposal.
+
 #
 #### Product Lifecycles
 
@@ -70,6 +72,10 @@ Changing how a product is consumed, like pouring a takeout coffee into an insula
 #
 
 ![Landfill](https://github.com/sourceduty/Garbage/assets/123030236/7fcff4e4-7328-4468-8cca-3b5875a524f2)
+
+#
+
+![Outdoors](https://github.com/user-attachments/assets/ea1fe0ce-d28c-4e8a-a5fc-49fcbebef49d)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
