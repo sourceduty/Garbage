@@ -69,7 +69,7 @@ Changing how a product is consumed, like pouring a takeout coffee into an insula
 <br>
 [Global Warming](https://github.com/sourceduty/Global_Warming)
 <br>
-[Vending Recyler](https://github.com/sourceduty/Vending_Recycler)
+[Vending Recycler](https://github.com/sourceduty/Vending_Recycler)
 
 #
 
